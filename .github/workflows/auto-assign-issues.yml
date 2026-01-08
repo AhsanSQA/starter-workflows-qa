@@ -15,4 +15,4 @@ jobs:
                   numOfAssignee: 1
 
             - name: Print Hello QA
-              run: echo "Hello QA World2!"
+              run: echo "Hello QA Automation World2!"
