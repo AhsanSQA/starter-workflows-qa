@@ -13,3 +13,6 @@ jobs:
               with:
                   assignees: phantsure,tiwarishub,anuragc617,vsvipul,bishal-pdmsft
                   numOfAssignee: 1
+
+            - name: Print Hello QA
+              run: echo "Hello QA World!"
